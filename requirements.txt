@@ -1,0 +1,7 @@
+pypdf
+faiss-cpu
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain
+streamlit
