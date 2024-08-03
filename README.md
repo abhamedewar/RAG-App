@@ -2,6 +2,9 @@
 
 Developed a Streamlit-based user interface for uploading PDF files and enabling users to ask questions related to the content of the PDFs.
 
+### Demo
+<img src="images/application_screenshot.png">
+
 ### Technologies Used
 - Open source Llama 3.1 8B model
 - Ollama
@@ -9,8 +12,6 @@ Developed a Streamlit-based user interface for uploading PDF files and enabling 
 - Langchain retriever
 - ChromaDB
 - Streamlit
-
-<img src="images/application_screenshot.png">
 
 ### Installation
 
